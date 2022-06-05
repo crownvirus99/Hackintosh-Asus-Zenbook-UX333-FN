@@ -11,7 +11,7 @@ Tested on macOS Big Sur 11.6.6 and OpenCore 0.8.0
 | ----------- | ----------------------------|
 | CPU            | **Intel Core i5-8265U @ 1.60 GHz** |
 | GPU    | **Intel UHD Graphics 620, NVIDIA MX150 (*disabled*)** |
-| Memory | **8 GB DDR4** |
+| Memory | **8 GB LPDDR** |
 | Storage | **Intel 660P SSD** |
 | Sound Card     | **Realtek ALC294** |
 | Touchpad     | **ELAN1200 I2C HID** |
