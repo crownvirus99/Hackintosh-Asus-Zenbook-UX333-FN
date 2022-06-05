@@ -1,6 +1,6 @@
 # Asus Zenbook Hackintosh
 
-Working Bootloader with all needed kext. All you need, it install on your flash drive (with 8 or more Gb) OpenCore and put all files from zip to bootloader path of your flash. After that, you can install macOS to flashdrive, and load from it.
+Working Bootloader with all needed kext. All you need, it install on your flash drive (with 8 or more Gb) OpenCore and put all files from zip to bootloader path of your flash. After that, you can install macOS to flashdrive, and load from it. More information in  [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
 
 Tested on macOS Big Sur 11.6.6 and OpenCore 0.8.0
 
