@@ -6,7 +6,7 @@ Tested on macOS Big Sur 11.6.6 and OpenCore 0.8.0
 
 # Laptop Specifications
 
-## *ASUS Zenbook UX333FN*
+## *ASUS Zenbook UX331FN*
 | Hardware                 | Name                                                     |
 | ----------- | ----------------------------|
 | CPU            | **Intel Core i5-8265U @ 1.60 GHz** |
