@@ -3,6 +3,8 @@ Working Bootloader with all needed kext. Just copy the EFI folder into the USB d
 
 Tested on macOS Big Sur 11.6.6 and OpenCore 0.8.0
 
+***Note:** this EFI does not support NVMe drives, to fix this use [NVMeFix Kext](https://github.com/acidanthera/NVMeFix)*
+
 # Laptop Specifications
 
 ## *ASUS Zenbook UX333FN*
